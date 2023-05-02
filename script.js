@@ -19,3 +19,5 @@ function calculaIMC() {
 
     document.getElementById("resp").innerText = "O seu IMC é: " + resp + " a sua classificação é a seguinte:" + classificacao;
 }
+
+//Teste
